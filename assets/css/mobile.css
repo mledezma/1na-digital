@@ -1,0 +1,448 @@
+@media (max-width: 768px) {
+    .hide-on-mobile{
+        display: none;
+    }
+    button.menu-toggle {
+        right: 20px;
+        top:15px;
+    }
+    ._1na_brand-bar{
+        padding: 10px 20px;
+    }
+    ._1na_brand-bar a img{
+        max-height: 40px;
+    }
+    ._1na_menu-label:before{
+        right: 80px;
+        top: 20px;
+    }
+    ._1na_menu-label:after{
+        right: 80px;
+        top: 20px;
+    }
+    ._1na-slide {
+        height: 50vh;
+    }
+    ._1na-slide-bg{
+        background-size: 60%;
+    }
+    ._1na-slide-image{
+        background-size: 30%;
+    }
+    ._1na-slide-text h2 {
+        font-size: 35px;
+        line-height: 40px;
+        margin: 0 auto 15px;
+        width: 70%;
+    }
+    ._1na-slide-text p {
+        font-size: 22px;
+        line-height: 27px;
+        padding: 0;
+        margin: 0 auto;
+        width: 70%;
+    }
+    ._1na-slider .carousel-indicators{
+        position: relative;
+        top: unset;
+        left: unset;
+        transform: none;
+        font-family: 'karlabold';
+        text-align: center;
+    }
+    ._1na-slider .carousel-indicators br{
+        display: none;
+    }
+    ._1na-slider .carousel-indicators li{
+        margin: 0px 20px 0px;
+    }
+    ._1na_feature-item p{
+        max-width: 320px;
+        margin: 0 auto;
+    }
+    .mobile-centered{
+        text-align: center;
+    }
+    .page-blog ._1na_post .read-more {
+        bottom: 10px;
+        right: 10px;
+    }
+    ._1na_single-project .project-order span{
+        font-size: 170px;
+    }
+    ._1na_single-project ._1na_hero-content .text-box{
+        padding-left: 25px;
+    }    
+    ._1na_hero-content .date {
+        font-size: 13px;
+        letter-spacing: 3px;
+    }
+    ._1na_single-project .post-content h2{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    ._1na_single-project .post-content h3 {
+        font-size: 20px;
+        letter-spacing: 3px;
+    }
+    .page-proyectos ._1na_content svg{
+        margin: 0 15px 30px;
+        width: 80%;
+    }
+    .page-proyectos ._1na_brand-bar{
+        margin-bottom: 30px;
+    }
+    .page-proyectos ._1na_content h1 span:not(.sub-content){
+        width: 100%;
+        text-align: center;
+        font-size: 22px;
+    }
+    .page-proyectos ._1na_content h1{
+        font-size: 35px;
+        text-align: center;
+        line-height: 45px;
+    }
+    .page-proyectos ._1na_content h1 span.sub-content p{
+        font-size: 16px;
+        padding-top: 0px;
+        line-height: 25px;
+    }
+    .page-proyectos .post-item-content .post-order{
+        top: unset;
+        bottom: 10px;
+        left: 0;
+        transform: none;
+    }
+    .page-proyectos .post-item-content .post-order span{
+        font-size: 190px;
+        line-height: 190px;
+    }
+    .page-proyectos .post-item-content .post-item-text h2{
+        font-size: 25px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+    .page-proyectos .post-item-content .post-item-text .content{
+        font-size: 16px;
+        letter-spacing: 2px;
+        padding-bottom: 70px;
+        padding-top: 0px;
+    }
+    .page-proyectos .post-item-content .post-item-text {
+        padding-left: 23%;
+        padding-top: 15px;
+    }
+    .page-proyectos ._1na_post .read-more {
+        bottom: 20px;
+        right: 20px;
+    }
+    .page-proyectos ._1na_section_4 h2{
+        font-size: 25px;
+        color: #fff;
+        display: inline-block;
+        position: absolute;
+        background: transparent no-repeat center bottom;
+        padding-right: 0;
+        padding-bottom: 50px;
+        padding-top: 20px;
+        text-align: center;
+        min-width: 90%;
+    }
+    .page-proyectos ._1na_section_4 h2 small{
+        font-size: 12px;
+        font-family: 'karlabold';
+        transform: translate(0,5px);
+        display: inline-block;
+    }
+
+      .page-nosotros ._1na_footer_mask:after,
+      .page-nosotros ._1na_footer_mask:before{
+        top:24px;
+      }
+      .page-nosotros ._1na_section_4 ._1na_section-content-centered{
+        padding: 150px 0 0;
+        transform: translate(0, 20px);
+      }
+      .page-nosotros ._1na_section_4 ._1na_contact-slider-link{
+        min-height: 200px;
+      }
+
+    ._1na_section_2 {
+        margin-top: -30px;
+    }
+
+    .page-nosotros ._1na_content h1 {
+        margin-top: 25px;
+    }
+    ._1na_portfolio-img-box{
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 420px) {
+    ul.menu li{
+        font-size: 38px;
+    }
+    p{
+        font-size: 17px;
+    }
+    button.menu-toggle {
+        right: 15px;
+        top:10px;
+    }
+    ._1na_brand-bar{
+        padding: 10px 15px;
+    }
+    ._1na_menu-label:before{
+        right: 70px;
+        top: 16px;
+    }
+    ._1na_menu-label:after{
+        right: 70px;
+        top: 16px;
+    }
+    ._1na_brand-bar a img{
+        max-height: 30px;
+    }
+    ._1na-slide-bg{
+        background-size: 90%;
+    }
+    ._1na-slide-image{
+        background-size: 50%;
+    }
+    ._1na-slide-text h2 {
+        font-size: 22px;
+        line-height: 40px;
+        margin: 0 auto;
+        width: 100%;
+    }
+    ._1na-slide-text p {
+        font-size: 15px;
+        line-height: 22px;
+        padding: 0;
+        margin: 0 auto;
+        width: 100%;
+    }
+    ._1na-slide {
+        height: 60vh;
+    }
+    ._1na-slider .carousel-indicators{
+        margin-top: -70px;
+    }
+    section {
+        padding: 110px 0;
+    }
+    ._1na_section_1 h2,
+    ._1na_section_2 h2,
+    ._1na_section_3 h2,
+    .page-nosotros ._1na_content h1,
+    .page-blog ._1na_content h1,
+    .page-contacto ._1na_content h1,
+    ._1na_hero-content h1,
+    ._1na_section_4 .slide1 h2{
+        font-size: 40px;
+    }
+    ._1na_section_3 h2{
+        margin-top: 70px;
+        background-position: right 10px;
+    }
+    ._1na_section_3 h2,
+    ._1na_section_3 h2 span{
+        padding-left: 20px;
+    }
+    .page-contacto ._1na_content h2{
+        font-size: 30px;
+    }
+    ._1na_section_1 h2 span,
+    ._1na_section_2 h2 span,
+    ._1na_section_3 h2 span,
+    .page-nosotros ._1na_content h1 span,
+    .page-blog ._1na_content h1 span,
+    .page-contacto ._1na_content h1 span,
+    ._1na_hero-content h1 span{
+        font-size: 18px;
+        letter-spacing: 8px;
+    }
+    ._1na_section_2 p,
+    ._1na_section_2 p.bottom-text,
+    ._1na_section_3 p,
+    .page-nosotros ._1na_content p{
+        font-size: 18px;
+        padding:0px 15px;
+    }
+    ._1na_section_2 p.bottom-text br{
+        display: none;
+    }
+    ._1na_section_3 .btn.btn-primary {
+        font-size: 18px !important;
+    }
+    ._1na_feature-item{
+        padding: 20px 0;
+    }
+    .spinning-img{
+        width: 90%;
+    }
+    ._1na_portfolio-img {
+        background-size: 70%;
+    }
+    ._1na_logo-footer {
+        bottom: 10px;
+        left: 10px;
+        width: 52px;
+    }
+    .page-nosotros ._1na_brand-bar {
+        margin-bottom: 50px;
+    }
+    .page-nosotros ._1na_content img{
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 30px;
+    }
+    .page-nosotros ._1na_subcontent{
+        padding-top: 0;
+    }
+    .page-nosotros ._1na_subcontent .desktop-only,
+    .landing-content .desktop-only{
+        display: none;
+    }
+    .page-nosotros ._1na_subcontent .mobile-only,
+    .landing-content .mobile-only{
+        display: inline;
+        width: 100%;
+        height: auto;
+    }
+    ._1na_post .img-box{
+        height: 250px;
+    }
+    .page-blog ._1na_post .read-more {
+        bottom: 10px;
+        right: 10px;
+    }
+    .page-contacto ._1na_content input,
+    .page-contacto ._1na_content textarea{
+        width: 100%;
+    }
+    .page-contacto ._1na_content input[type=submit]{
+        margin-right: 0;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .page-contacto ._1na_footer_mask {
+        margin-top: -200px;
+    }
+    ._1na_single-post ._1na_post-hero ._1na_hero-content {
+        position: absolute;
+        max-width: 100%;
+        width: 100%;
+        padding: 15px;
+        top: unset;
+        left: 0;
+        bottom: 20px;
+        transform: none;
+    }
+    ._1na_single-post ._1na_post-hero{
+        height: 60vh;
+    }
+    ._1na_single-post ._1na_post-hero ._1na_hero-content h1{
+        line-height: 45px;
+    }
+    ._1na_sidebar-item .img-box .img-content h2{
+        font-size: 30px;
+    }
+    ._1na_section_4 ._1na_contact-slider-link{
+        min-height: 160px;
+        background-size: 90%;
+    }
+    ._1na_section_4 h2{
+        min-width: 70%;
+        white-space: normal;
+        font-size: 27px;
+        background: transparent no-repeat right 20px;
+    }
+    .social-icons{
+        width: 100vw;
+        text-align: center;
+        right: 0;
+        bottom: 130px;
+    }
+    ._1na_contact_slider_mask label{
+        font-size: 30px;
+    }
+    ._1na_contact_slider_mask input,
+    ._1na_contact_slider_mask textarea{
+        font-size: 18px;
+        width: 100%;
+        min-width: 250px;
+        padding: 6px;
+    }
+    ._1na_contact_slider_mask .close-contact-slider i.fa{
+        font-size: 40px;
+    }
+    ._1na_contact_slider_mask h2{
+        font-size: 40px;
+    }
+    ._1na_section_4{
+        padding-bottom: 200px;
+    }
+    ._1na_brand-bar.no-navbar a img{
+      max-height: none;
+      max-width: 150px;
+    }
+    .landing-content h1{
+      font-size: 30px;
+      text-align: center;
+    }
+    .landing-content h2{
+      font-size: 30px;
+      color:#ff6611;
+    }
+    .landing-content h3{
+      font-size: 23px;
+      text-align: center;
+    }
+    .landing-content p, .landing-content label{
+      font-size: 13px;
+      text-align: center;
+    }
+    .landing-content .column-right{
+      text-align: center;
+      border-left: 0px;
+      border-bottom: 1px solid #181D45;
+      padding-left: 15px;
+      padding-bottom: 30px;
+      margin-bottom: 30px;
+    }
+    .page-single-landing ._1na_section-content-wide{
+        padding-top: 30px;
+    }
+    .landing-content form p:last-of-type {
+        text-align: center;
+    }
+    .landing-content span {
+        display: inline-block;
+        width: 90%;
+    }
+    .landing-content .extra-icon{
+      margin:20px 0;
+    }
+    ._1na_single-project ._1na_post-hero ._1na_hero-content h1{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    ._1na_section-content-centered {
+        padding: 70px 15px;
+    }
+    ._1na_section_2 .btn.btn-primary{
+        height: 55px !important;
+        line-height: 55px;
+        font-size: 18px !important;
+        padding:0 15px;
+        letter-spacing: 7px;
+    }
+
+    .page-proyectos ._1na_section_4 ._1na_contact-slider-link {
+        min-height: 263px;
+        background-size: 132%;
+        background-position: -29px center;
+    }
+}
